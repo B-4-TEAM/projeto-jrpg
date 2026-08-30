@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"READ_ME__ME_LEIA",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"READ_ME__ME_LEIA",
+  "parent":{
+    "name":"joguinho.",
+    "path":"joguinho..yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
